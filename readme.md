@@ -20,19 +20,19 @@ I made the enclosure slightly larger so the macropad has a stable base and enoug
 
 Schematic:
 
-!\[Schematic](Images/schematic.jpg)
+![Schematic](Images/schematic.jpg)
 
 
 
 PCB:
 
-!\[PCB](Images/pcb.jpg)
+![PCB](Images/pcb.jpg)
 
 
 
 Enclosure:
 
-!\[Enclosure](Images/enclosure.jpg)
+![Enclosure](Images/enclosure.jpg)
 
 
 
