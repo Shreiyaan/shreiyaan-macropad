@@ -47,6 +47,8 @@ The PCB DRC has 0 errors and 0 unconnected items. The remaining warnings are mos
 The firmware has not been tested on assembled hardware yet. I will test the keys and encoder after the PCB is manufactured and assembled.
 
 
+Use manufacturing_final.zip for PCB manufacturing. It contains the updated Gerber and drill files exported from Macropad_Checked.kicad_pcb. The other Gerber files and manufacturing ZIP are older versions.
+
 
 Made by Shreiyaan P Shah.
 
