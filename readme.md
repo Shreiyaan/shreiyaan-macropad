@@ -32,7 +32,7 @@ PCB:
 
 Enclosure:
 
-![Enclosure](Images/enclosure.jpg)
+![Full assembly](Images/assembly.jpg)
 
 
 
